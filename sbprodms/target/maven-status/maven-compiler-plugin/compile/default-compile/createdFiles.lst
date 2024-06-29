@@ -1,0 +1,10 @@
+com\gabriel\prodmsapp\controller\storage\FileSystemStorageService.class
+com\gabriel\prodmsapp\controller\storage\StorageException.class
+com\gabriel\prodmsapp\controller\FileController.class
+com\gabriel\prodmsapp\controller\storage\StorageService.class
+com\gabriel\prodmsapp\controller\storage\StorageFileNotFoundException.class
+com\gabriel\prodmsapp\controller\ProductController.class
+com\gabriel\prodmsapp\serviceimpl\ProductServiceImpl.class
+com\gabriel\prodmsapp\controller\storage\StorageProperties.class
+com\gabriel\prodmsapp\ProductMSApplication.class
+META-INF\spring-configuration-metadata.json
